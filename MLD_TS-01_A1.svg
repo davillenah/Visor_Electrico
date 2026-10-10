@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="841mm" height="594mm" viewBox="0 0 841 594" data-format="A1" data-norma="IRAM 4504 / IRAM 4508" data-zona-util="30 15 826 579" data-rotulo="651 528 826 579" data-modificaciones="651 506.5 826 528" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowOTkyOTk4OC0yMWExLTQxMjYtOGRlOC05ODEwZTYwZWRhODYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPlJxVI8pdSJ/OrOVExCcdQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowZWQ3ZDQ3YS1lY2IzLTRhN2QtOGEyNy1hZmZkYWQ5Zjg1MDdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoDj5x3z5RbD0NduQbY0ms7AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggkVzHr0REbWlWzWMVab94buJ2yi+Kc5z04KVWD0zHXWSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBMC1KEu5wYD+gQdt6I1i/UAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKza0ZBINJ07XzqErzi+Sg2sJRmC1NTbsGNiISMWWYiBZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQFaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA5OTI5OTg4LTIxYTEtNDEyNi04ZGU4LTk4MTBlNjBlZGE4Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjhjZDQ1Y2VhLTMyODAtNDgyNC1iYzRkLTZkMjY0MzVhNTlhM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCRXMevRERtaVbNYxVpv3hu4nbKL4pznPTgpVYPTMddZKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggqPfttdyGm5bR7Omlw0NOgFUI84mOysBiDvaD1FmSNPaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggLEB8SgO0DYT14hVVA3PTt16vV5SrClFWEMjyCB2+ejN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOouUSWpVIyZop5Nr7yT/hvOV5oEM2uTh5a51WhsfuJSxSSx+5p8DLRw4fk7HjZd3myJEzpinezSuKtgHuRhmIY=</c2pa:manifest></metadata>
+<title>Lámina A1 841 x 594 IRAM 4504 / 4508</title>
+<rect id="papel" x="0" y="0" width="841" height="594" fill="#fff"/>
+<g font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+<g id="corte" stroke="#000">
+<rect x="0" y="0" width="841" height="594" fill="none" stroke-width="0.1"/>
+</g>
+<g id="recuadro" stroke="#000" stroke-linecap="square">
+<rect x="25" y="10" width="806" height="574" fill="none" stroke-width="1.0"/>
+<rect x="30" y="15" width="796" height="564" fill="none" stroke-width="0.5"/>
+</g>
+<g id="coordenadas" stroke="#000" fill="#000">
+<line x1="105.125" y1="10" x2="105.125" y2="15" stroke-width="0.5"/>
+<line x1="105.125" y1="579" x2="105.125" y2="584" stroke-width="0.5"/>
+<line x1="210.25" y1="10" x2="210.25" y2="15" stroke-width="0.5"/>
+<line x1="210.25" y1="579" x2="210.25" y2="584" stroke-width="0.5"/>
+<line x1="315.375" y1="10" x2="315.375" y2="15" stroke-width="0.5"/>
+<line x1="315.375" y1="579" x2="315.375" y2="584" stroke-width="0.5"/>
+<line x1="420.5" y1="10" x2="420.5" y2="15" stroke-width="0.5"/>
+<line x1="420.5" y1="579" x2="420.5" y2="584" stroke-width="0.5"/>
+<line x1="525.625" y1="10" x2="525.625" y2="15" stroke-width="0.5"/>
+<line x1="525.625" y1="579" x2="525.625" y2="584" stroke-width="0.5"/>
+<line x1="630.75" y1="10" x2="630.75" y2="15" stroke-width="0.5"/>
+<line x1="630.75" y1="579" x2="630.75" y2="584" stroke-width="0.5"/>
+<line x1="735.875" y1="10" x2="735.875" y2="15" stroke-width="0.5"/>
+<line x1="735.875" y1="579" x2="735.875" y2="584" stroke-width="0.5"/>
+<line x1="25" y1="148.5" x2="30" y2="148.5" stroke-width="0.5"/>
+<line x1="826" y1="148.5" x2="831" y2="148.5" stroke-width="0.5"/>
+<line x1="25" y1="297" x2="30" y2="297" stroke-width="0.5"/>
+<line x1="826" y1="297" x2="831" y2="297" stroke-width="0.5"/>
+<line x1="25" y1="445.5" x2="30" y2="445.5" stroke-width="0.5"/>
+<line x1="826" y1="445.5" x2="831" y2="445.5" stroke-width="0.5"/>
+<text stroke="none" x="67.5625" y="14.25" font-size="4.861" text-anchor="middle">H</text>
+<text stroke="none" x="69.3125" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 69.3125 581.5)">H</text>
+<text stroke="none" x="157.688" y="14.25" font-size="4.861" text-anchor="middle">G</text>
+<text stroke="none" x="159.438" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 159.438 581.5)">G</text>
+<text stroke="none" x="262.812" y="14.25" font-size="4.861" text-anchor="middle">F</text>
+<text stroke="none" x="264.562" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 264.562 581.5)">F</text>
+<text stroke="none" x="367.938" y="14.25" font-size="4.861" text-anchor="middle">E</text>
+<text stroke="none" x="369.688" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 369.688 581.5)">E</text>
+<text stroke="none" x="473.062" y="14.25" font-size="4.861" text-anchor="middle">D</text>
+<text stroke="none" x="474.812" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 474.812 581.5)">D</text>
+<text stroke="none" x="578.188" y="14.25" font-size="4.861" text-anchor="middle">C</text>
+<text stroke="none" x="579.938" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 579.938 581.5)">C</text>
+<text stroke="none" x="683.312" y="14.25" font-size="4.861" text-anchor="middle">B</text>
+<text stroke="none" x="685.062" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 685.062 581.5)">B</text>
+<text stroke="none" x="780.938" y="14.25" font-size="4.861" text-anchor="middle">A</text>
+<text stroke="none" x="782.688" y="581.5" font-size="4.861" text-anchor="middle" transform="rotate(-90 782.688 581.5)">A</text>
+<text stroke="none" x="27.5" y="83.5" font-size="4.861" text-anchor="middle">4</text>
+<text stroke="none" x="830.25" y="81.75" font-size="4.861" text-anchor="middle" transform="rotate(-90 830.25 81.75)">4</text>
+<text stroke="none" x="27.5" y="224.5" font-size="4.861" text-anchor="middle">3</text>
+<text stroke="none" x="830.25" y="222.75" font-size="4.861" text-anchor="middle" transform="rotate(-90 830.25 222.75)">3</text>
+<text stroke="none" x="27.5" y="373" font-size="4.861" text-anchor="middle">2</text>
+<text stroke="none" x="830.25" y="371.25" font-size="4.861" text-anchor="middle" transform="rotate(-90 830.25 371.25)">2</text>
+<text stroke="none" x="27.5" y="514" font-size="4.861" text-anchor="middle">1</text>
+<text stroke="none" x="830.25" y="512.25" font-size="4.861" text-anchor="middle" transform="rotate(-90 830.25 512.25)">1</text>
+</g>
+<g id="escala_comparacion" stroke="#000">
+<line x1="10" y1="10" x2="15" y2="10" stroke-width="0.2"/>
+<line x1="10" y1="20" x2="15" y2="20" stroke-width="0.2"/>
+<line x1="10" y1="30" x2="15" y2="30" stroke-width="0.2"/>
+<line x1="10" y1="40" x2="15" y2="40" stroke-width="0.2"/>
+<line x1="10" y1="50" x2="15" y2="50" stroke-width="0.2"/>
+<line x1="10" y1="60" x2="15" y2="60" stroke-width="0.2"/>
+<line x1="10" y1="70" x2="15" y2="70" stroke-width="0.2"/>
+<line x1="10" y1="80" x2="15" y2="80" stroke-width="0.2"/>
+<line x1="10" y1="90" x2="15" y2="90" stroke-width="0.2"/>
+<line x1="10" y1="100" x2="15" y2="100" stroke-width="0.2"/>
+<line x1="10" y1="110" x2="15" y2="110" stroke-width="0.2"/>
+<line x1="10" y1="120" x2="15" y2="120" stroke-width="0.2"/>
+<line x1="10" y1="130" x2="15" y2="130" stroke-width="0.2"/>
+<line x1="10" y1="140" x2="15" y2="140" stroke-width="0.2"/>
+<line x1="10" y1="150" x2="15" y2="150" stroke-width="0.2"/>
+<line x1="10" y1="160" x2="15" y2="160" stroke-width="0.2"/>
+<line x1="10" y1="170" x2="15" y2="170" stroke-width="0.2"/>
+<line x1="10" y1="180" x2="15" y2="180" stroke-width="0.2"/>
+<line x1="10" y1="190" x2="15" y2="190" stroke-width="0.2"/>
+<line x1="10" y1="200" x2="15" y2="200" stroke-width="0.2"/>
+<line x1="10" y1="210" x2="15" y2="210" stroke-width="0.2"/>
+<line x1="15" y1="10" x2="15" y2="210" stroke-width="0.2"/>
+</g>
+<g id="centrado" stroke="#000">
+<line x1="420.5" y1="0" x2="420.5" y2="20" stroke-width="0.5"/>
+<line x1="420.5" y1="594" x2="420.5" y2="574" stroke-width="0.5"/>
+<line x1="0" y1="297" x2="35" y2="297" stroke-width="0.5"/>
+<line x1="841" y1="297" x2="821" y2="297" stroke-width="0.5"/>
+</g>
+<g id="orientacion" stroke="#000">
+<polygon points="417.5,578 423.5,578 420.5,584" fill="none" stroke-width="0.2"/>
+<polygon points="417.5,578 423.5,578 421.5,582 419.5,582" fill="#000" stroke="none"/>
+<line x1="420.5" y1="578" x2="420.5" y2="575" stroke-width="0.4"/>
+<line x1="420.5" y1="575" x2="423.5" y2="575" stroke-width="0.4"/>
+<line x1="423.5" y1="575" x2="423.5" y2="578" stroke-width="0.4"/>
+</g>
+<g id="rotulo_IRAM4508" transform="translate(651 528)" data-norma="IRAM 4508 fig. 2">
+<g id="rotulo_IRAM4508_rotulo" stroke="#000" stroke-linecap="square">
+<rect x="0" y="0" width="175" height="51" fill="none" stroke-width="0.8"/>
+<line x1="26" y1="0" x2="26" y2="51" stroke-width="0.4"/>
+<line x1="26" y1="4.25" x2="75" y2="4.25" stroke-width="0.2"/>
+<line x1="26" y1="8.5" x2="75" y2="8.5" stroke-width="0.2"/>
+<line x1="26" y1="12.75" x2="75" y2="12.75" stroke-width="0.2"/>
+<line x1="46" y1="0" x2="46" y2="17" stroke-width="0.2"/>
+<line x1="56" y1="0" x2="56" y2="17" stroke-width="0.2"/>
+<line x1="75" y1="0" x2="75" y2="17" stroke-width="0.4"/>
+<line x1="26" y1="17" x2="120" y2="17" stroke-width="0.4"/>
+<line x1="46" y1="17" x2="46" y2="51" stroke-width="0.2"/>
+<line x1="26" y1="28" x2="64" y2="28" stroke-width="0.2"/>
+<line x1="26" y1="37" x2="64" y2="37" stroke-width="0.2"/>
+<line x1="64" y1="17" x2="64" y2="51" stroke-width="0.4"/>
+<polygon points="29.5,31.2 34.5,29.9 34.5,35.1 29.5,33.8" fill="none" stroke-width="0.2"/>
+<circle cx="40" cy="32.5" r="2.6" fill="none" stroke-width="0.2"/>
+<circle cx="40" cy="32.5" r="1.3" fill="none" stroke-width="0.2"/>
+<line x1="28.5" y1="32.5" x2="44" y2="32.5" stroke-width="0.2"/>
+<line x1="120" y1="0" x2="120" y2="51" stroke-width="0.4"/>
+<line x1="120" y1="17" x2="175" y2="17" stroke-width="0.4"/>
+<line x1="120" y1="34" x2="175" y2="34" stroke-width="0.4"/>
+<line x1="120" y1="42.5" x2="175" y2="42.5" stroke-width="0.4"/>
+</g>
+<g id="rotulo_IRAM4508_rotulo_txt" fill="#000">
+<text stroke="none" x="46.5" y="3.15" font-size="2.500">Fecha</text>
+<text stroke="none" x="56.6" y="3.15" font-size="2.500">Nombre</text>
+<text stroke="none" x="26.8" y="7.4" font-size="2.500">Dib.</text>
+<text stroke="none" x="26.8" y="11.65" font-size="2.500">Rev.</text>
+<text stroke="none" x="26.8" y="15.9" font-size="2.500">Apr.</text>
+<text stroke="none" x="26.8" y="19.6" font-size="2.500">Esc.</text>
+<text stroke="none" x="26.8" y="40.2" font-size="2.500">Toler.</text>
+<text stroke="none" x="26.8" y="49.5" font-size="2.500">Rug.</text>
+</g>
+<g id="rotulo_IRAM4508_rotulo_var" fill="#000">
+<text stroke="none" x="1.5" y="5" font-size="3.472" data-key="notas" data-placeholder="{notas}">Hoja 1 de 1</text>
+<text stroke="none" x="97.5" y="10" font-size="4.861" text-anchor="middle" data-key="cliente" data-placeholder="{cliente}">PRÁCTICA</text>
+<text stroke="none" x="55" y="24.5" font-size="3.472" text-anchor="middle" data-key="escala" data-placeholder="{escala}">S/E</text>
+<text stroke="none" x="92" y="32" font-size="5.556" text-anchor="middle" data-key="denominacion" data-placeholder="{denominacion}">MULTIFILAR TS-01</text>
+<text stroke="none" x="92" y="41" font-size="4.861" text-anchor="middle" data-key="denominacion_2" data-placeholder="{denominacion_2}">Tablero seccional taller</text>
+<text stroke="none" x="147.5" y="10.5" font-size="4.861" text-anchor="middle" data-key="empresa" data-placeholder="{empresa}">D. A. VILLENA H.</text>
+<text stroke="none" x="147.5" y="28" font-size="6.944" text-anchor="middle" data-key="plano_n" data-placeholder="{plano_n}">MLD-TS01-01</text>
+<text stroke="none" x="147.5" y="39.5" font-size="3.472" text-anchor="middle" data-key="emision" data-placeholder="{emision}">10/10/2026</text>
+<text stroke="none" x="147.5" y="48" font-size="3.472" text-anchor="middle" data-key="reemplaza" data-placeholder="{reemplaza}"></text>
+</g>
+</g>
+<g id="dibujo">
+<rect x="37.5" y="40" width="607.5" height="215" fill="none" stroke="#dcdcdc" stroke-width="0.25" stroke-dasharray="3 1"/>
+<text x="165" y="47" font-size="4.86" fill="#ff0000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">TS-01 · TABLERO SECCIONAL TALLER</text>
+<path d="M108.75 27 L111.25 27 L110 30 Z" fill="#ff0000" stroke="none"/>
+<line x1="110" y1="22" x2="110" y2="27" stroke="#ff0000" stroke-width="0.25"/>
+<line x1="110" y1="30" x2="110" y2="52.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M121.25 27 L123.75 27 L122.5 30 Z" fill="#ff0000" stroke="none"/>
+<line x1="122.5" y1="22" x2="122.5" y2="27" stroke="#ff0000" stroke-width="0.25"/>
+<line x1="122.5" y1="30" x2="122.5" y2="52.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M133.75 27 L136.25 27 L135 30 Z" fill="#ff0000" stroke="none"/>
+<line x1="135" y1="22" x2="135" y2="27" stroke="#ff0000" stroke-width="0.25"/>
+<line x1="135" y1="30" x2="135" y2="52.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M146.25 27 L148.75 27 L147.5 30 Z" fill="#ff0000" stroke="none"/>
+<line x1="147.5" y1="22" x2="147.5" y2="27" stroke="#ff0000" stroke-width="0.25"/>
+<line x1="147.5" y1="30" x2="147.5" y2="52.5" stroke="#ff0000" stroke-width="0.25"/>
+<text x="160" y="20" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Desde TGBT-01, salida Q7</text>
+<text x="160" y="25" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">4x25 mm² + PE 16 mm² · Cu/XLPE 0,6/1 kV · IRAM 2178</text>
+<text x="160" y="30" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3x380/220 V + N · 50 Hz · TN-S · Ik" 10 kA</text>
+<path d="M43.75 27 L46.25 27 L45 30 Z" fill="#139b48" stroke="none"/>
+<line x1="45" y1="22" x2="45" y2="27" stroke="#139b48" stroke-width="0.25"/>
+<line x1="45" y1="30" x2="45" y2="220" stroke="#139b48" stroke-width="0.25" stroke-dasharray="10 1 2 1"/>
+<text x="46.2" y="25.8" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<g class="sym" transform="translate(110,52.5)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <path d="M-2.5 2.4 L0 0 L2.5 2.4" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-2.5 3.6 L0 1.2 L2.5 3.6" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="0" x2="0" y2="4.8" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="1.25" y1="6" x2="-1.25" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.25" y1="6" x2="1.25" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.871" x2="-3.23" y2="5.308" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="-6.554" y="10.8" width="12.78" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="-6.554" y="15.6" width="12.78" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="-6.554" y="20.4" width="12.78" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="-6.554" y="25.2" width="12.78" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="0" y="14.499" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;</text>
+    <text x="0" y="19.299" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <text x="0" y="24.099" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;&gt;</text>
+    <text x="-1.275" y="28.899" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <line x1="3.088" y1="26.104" x2="3.088" y2="27.911" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="2.167" y1="27.901" x2="4.034" y2="27.901" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="2.475" y1="28.513" x2="3.725" y2="28.513" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="2.784" y1="29.125" x2="3.417" y2="29.125" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="30" x2="0" y2="35" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-2.5 33.75 L0 36.25 L2.5 33.75" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-2.5 32.5 L0 35 L2.5 32.5" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L1</text>
+    <path d="M10 2.4 L12.5 0 L15 2.4" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M10 3.6 L12.5 1.2 L15 3.6" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="0" x2="12.5" y2="4.8" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="13.75" y1="6" x2="11.25" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="11.25" y1="6" x2="13.75" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.871" x2="9.27" y2="5.308" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="6.227" y="10.8" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="6.227" y="15.6" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="6.227" y="20.4" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="6.227" y="25.2" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="12.5" y="14.499" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;</text>
+    <text x="12.5" y="19.299" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <text x="12.5" y="24.099" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;&gt;</text>
+    <text x="11.225" y="28.899" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <line x1="15.588" y1="26.104" x2="15.588" y2="27.911" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="14.667" y1="27.901" x2="16.534" y2="27.901" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="14.975" y1="28.513" x2="16.225" y2="28.513" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="15.284" y1="29.125" x2="15.917" y2="29.125" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="30" x2="12.5" y2="35" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M10 33.75 L12.5 36.25 L15 33.75" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M10 32.5 L12.5 35 L15 32.5" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L2</text>
+    <path d="M22.5 2.4 L25 0 L27.5 2.4" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M22.5 3.6 L25 1.2 L27.5 3.6" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="0" x2="25" y2="4.8" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="26.25" y1="6" x2="23.75" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="23.75" y1="6" x2="26.25" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="10.871" x2="21.77" y2="5.308" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.727" y="10.8" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.727" y="15.6" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.727" y="20.4" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.727" y="25.2" width="12.5" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="25" y="14.499" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;</text>
+    <text x="25" y="19.299" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <text x="25" y="24.099" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;&gt;</text>
+    <text x="23.725" y="28.899" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <line x1="28.088" y1="26.104" x2="28.088" y2="27.911" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="27.167" y1="27.901" x2="29.034" y2="27.901" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="27.475" y1="28.513" x2="28.725" y2="28.513" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="27.784" y1="29.125" x2="28.417" y2="29.125" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="30" x2="25" y2="35" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M22.5 33.75 L25 36.25 L27.5 33.75" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M22.5 32.5 L25 35 L27.5 32.5" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="26.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L3</text>
+    <path d="M35 2.4 L37.5 0 L40 2.4" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M35 3.6 L37.5 1.2 L40 3.6" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.5" y1="0" x2="37.5" y2="4.8" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="38.75" y1="6" x2="36.25" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="36.25" y1="6" x2="38.75" y2="3.6" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.5" y1="10.871" x2="34.27" y2="5.308" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="31.227" y="10.8" width="12.778" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="31.227" y="15.6" width="12.778" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="31.227" y="20.4" width="12.778" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="31.227" y="25.2" width="12.778" height="4.8" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="37.5" y="14.499" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;</text>
+    <text x="37.5" y="19.299" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <text x="37.5" y="24.099" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;&gt;</text>
+    <text x="36.225" y="28.899" font-size="3.47" fill="#0000ff" text-anchor="middle">I&gt;&gt;</text>
+    <line x1="40.588" y1="26.104" x2="40.588" y2="27.911" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="39.667" y1="27.901" x2="41.534" y2="27.901" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="39.975" y1="28.513" x2="41.225" y2="28.513" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="40.284" y1="29.125" x2="40.917" y2="29.125" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.5" y1="30" x2="37.5" y2="35" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M35 33.75 L37.5 36.25 L40 33.75" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M35 32.5 L37.5 35 L40 32.5" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="38.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">N</text>
+    <rect x="-13.436" y="6.607" width="3.75" height="3.6" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-14.054" y1="8.419" x2="-9.054" y2="8.419" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-11.578" y1="6" x2="-11.578" y2="10.8" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-7.804" y1="8.419" x2="43.995" y2="8.419" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <line x1="-11.578" y1="12" x2="-11.578" y2="27.619" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <line x1="-6.554" y1="13.219" x2="-11.578" y2="13.219" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="10 1 2 1" />
+    <line x1="-6.554" y1="18.019" x2="-11.578" y2="18.019" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="10 1 2 1" />
+    <line x1="-6.554" y1="22.819" x2="-11.578" y2="22.819" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="10 1 2 1" />
+    <line x1="-6.554" y1="27.619" x2="-11.578" y2="27.619" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="10 1 2 1" />
+    <text x="-15.99" y="14.588" font-size="3.47" fill="#000000" text-anchor="end" font-weight="bold">MCCB</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="3" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="3" y="34" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="15.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="15.5" y="34" font-size="2.5" fill="#000000" text-anchor="start">4</text><text x="28" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">5</text><text x="28" y="34" font-size="2.5" fill="#000000" text-anchor="start">6</text><text x="40.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">7</text><text x="40.5" y="34" font-size="2.5" fill="#000000" text-anchor="start">8</text></g>
+<text fill="#000000" x="-15.99" y="18.824" font-size="3.47" text-anchor="end">-Q0</text>
+<text fill="#000000" x="-15.99" y="23.172" font-size="3.47" text-anchor="end">General</text>
+<text fill="#000000" x="-15.99" y="27.52" font-size="3.47" text-anchor="end">In 100 A</text>
+<text fill="#000000" x="-15.99" y="33.196" font-size="3.47" text-anchor="end">Icu 25 kA</text>
+</g>
+<line x1="110" y1="87.5" x2="110" y2="100" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="110" cy="100" r="1" fill="#0000ff" stroke="none"/>
+<text x="109.2" y="93.75" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 109.2 93.75)">101</text>
+<line x1="122.5" y1="87.5" x2="122.5" y2="107.5" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="122.5" cy="107.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="121.7" y="93.75" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 121.7 93.75)">201</text>
+<line x1="135" y1="87.5" x2="135" y2="115" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="135" cy="115" r="1" fill="#0000ff" stroke="none"/>
+<text x="134.2" y="93.75" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 134.2 93.75)">301</text>
+<line x1="147.5" y1="87.5" x2="147.5" y2="122.5" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="147.5" cy="122.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="146.7" y="93.75" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 146.7 93.75)">N01</text>
+<line x1="62.5" y1="100" x2="637.5" y2="100" stroke="#0000ff" stroke-width="0.5"/>
+<text x="60.5" y="101.2" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1</text>
+<line x1="62.5" y1="107.5" x2="637.5" y2="107.5" stroke="#0000ff" stroke-width="0.5"/>
+<text x="60.5" y="108.7" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L2</text>
+<line x1="62.5" y1="115" x2="637.5" y2="115" stroke="#0000ff" stroke-width="0.5"/>
+<text x="60.5" y="116.2" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L3</text>
+<line x1="62.5" y1="122.5" x2="637.5" y2="122.5" stroke="#0000ff" stroke-width="0.5"/>
+<text x="60.5" y="123.7" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">N</text>
+<text x="637.5" y="97.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">BARRAS TS-01 · BdP 100 A · 3F+N</text>
+<line x1="42.5" y1="220" x2="637.5" y2="220" stroke="#139b48" stroke-width="0.5" stroke-dasharray="10 1 2 1"/>
+<circle cx="45" cy="220" r="1" fill="#139b48" stroke="none"/>
+<text x="637.5" y="218.5" font-size="3.47" fill="#139b48" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">BARRA PE</text>
+<g class="sym" transform="translate(55,220)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="6.912" y1="10.912" x2="6.897" y2="10.559" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.838" y1="9.941" x2="6.824" y2="9.882" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.735" y1="9.397" x2="6.721" y2="9.338" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.588" y1="8.868" x2="6.574" y2="8.809" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.412" y1="8.338" x2="6.382" y2="8.279" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.353" y1="8.221" x2="6.221" y2="7.897" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.191" y1="7.838" x2="6.162" y2="7.779" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.118" y1="7.721" x2="5.956" y2="7.412" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.926" y1="7.353" x2="5.897" y2="7.294" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.853" y1="7.235" x2="5.662" y2="6.956" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.618" y1="6.897" x2="5.588" y2="6.838" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.279" y1="6.456" x2="5.235" y2="6.397" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="4.912" y1="6.044" x2="4.868" y2="6" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="4.515" y1="5.662" x2="4.456" y2="5.618" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="4.074" y1="5.324" x2="4.029" y2="5.279" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="3.618" y1="5" x2="3.559" y2="4.971" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="3.5" y1="4.941" x2="3.206" y2="4.765" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="3.147" y1="4.735" x2="3.074" y2="4.706" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="3.015" y1="4.676" x2="2.706" y2="4.529" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="2.647" y1="4.5" x2="2.574" y2="4.471" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="2.515" y1="4.441" x2="2.191" y2="4.338" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="2.118" y1="4.309" x2="2.059" y2="4.279" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="1.985" y1="4.265" x2="1.662" y2="4.176" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="1.588" y1="4.162" x2="1.529" y2="4.147" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.735" y1="4" x2="-1.088" y2="4.029" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-1.162" y1="4.044" x2="-1.221" y2="4.059" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-1.294" y1="4.074" x2="-1.632" y2="4.147" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-1.691" y1="4.162" x2="-1.765" y2="4.176" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-1.824" y1="4.191" x2="-2.162" y2="4.294" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-2.221" y1="4.309" x2="-2.294" y2="4.324" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-2.75" y1="4.5" x2="-2.809" y2="4.529" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-3.25" y1="4.735" x2="-3.309" y2="4.779" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-3.721" y1="5.015" x2="-3.779" y2="5.044" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-4.176" y1="5.324" x2="-4.235" y2="5.368" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-4.294" y1="5.412" x2="-4.559" y2="5.618" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-4.618" y1="5.662" x2="-4.662" y2="5.721" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-4.721" y1="5.765" x2="-4.971" y2="6" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.118" y1="6.147" x2="-5.338" y2="6.412" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.382" y1="6.456" x2="-5.441" y2="6.515" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.471" y1="6.559" x2="-5.676" y2="6.838" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.721" y1="6.897" x2="-5.765" y2="6.956" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.029" y1="7.368" x2="-6.059" y2="7.426" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.279" y1="7.853" x2="-6.309" y2="7.912" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.515" y1="8.353" x2="-6.529" y2="8.412" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.691" y1="8.868" x2="-6.706" y2="8.941" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.735" y1="9.015" x2="-6.824" y2="9.338" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.838" y1="9.412" x2="-6.853" y2="9.471" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.868" y1="9.544" x2="-6.926" y2="9.882" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.956" y1="10.088" x2="-6.985" y2="10.441" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.985" y1="10.5" x2="-7" y2="10.574" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.882" y1="12.162" x2="-6.868" y2="12.221" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.765" y1="12.691" x2="-6.75" y2="12.765" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.603" y1="13.221" x2="-6.574" y2="13.294" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.559" y1="13.353" x2="-6.426" y2="13.676" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.397" y1="13.735" x2="-6.368" y2="13.794" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.338" y1="13.868" x2="-6.191" y2="14.176" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.088" y1="14.353" x2="-5.912" y2="14.647" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.868" y1="14.706" x2="-5.838" y2="14.765" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.794" y1="14.824" x2="-5.588" y2="15.103" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.544" y1="15.162" x2="-5.515" y2="15.206" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.191" y1="15.574" x2="-5.147" y2="15.632" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-4.809" y1="15.971" x2="-4.75" y2="16.015" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-4.382" y1="16.338" x2="-4.338" y2="16.382" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-3.941" y1="16.662" x2="-3.882" y2="16.706" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-3.824" y1="16.735" x2="-3.544" y2="16.926" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-3.471" y1="16.956" x2="-3.412" y2="16.985" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-3.353" y1="17.029" x2="-3.044" y2="17.176" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-2.853" y1="17.265" x2="-2.544" y2="17.397" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-2.471" y1="17.426" x2="-2.412" y2="17.456" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-2.338" y1="17.471" x2="-2.015" y2="17.574" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-1.941" y1="17.588" x2="-1.882" y2="17.618" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-1.412" y1="17.721" x2="-1.338" y2="17.735" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.868" y1="17.809" x2="-0.794" y2="17.824" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="0.382" y1="17.838" x2="0.721" y2="17.824" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="0.926" y1="17.794" x2="1.265" y2="17.735" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="1.471" y1="17.691" x2="1.809" y2="17.603" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="1.868" y1="17.588" x2="1.941" y2="17.574" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="2" y1="17.559" x2="2.338" y2="17.441" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="2.397" y1="17.412" x2="2.456" y2="17.397" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="2.912" y1="17.206" x2="2.971" y2="17.176" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="3.397" y1="16.941" x2="3.456" y2="16.912" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="3.868" y1="16.647" x2="3.926" y2="16.618" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="4.309" y1="16.324" x2="4.368" y2="16.279" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="4.412" y1="16.235" x2="4.676" y2="16.015" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="4.735" y1="15.956" x2="4.779" y2="15.912" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="4.824" y1="15.868" x2="5.074" y2="15.618" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.206" y1="15.456" x2="5.426" y2="15.191" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.471" y1="15.147" x2="5.515" y2="15.088" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.559" y1="15.029" x2="5.75" y2="14.75" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="5.779" y1="14.691" x2="5.824" y2="14.632" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.059" y1="14.206" x2="6.103" y2="14.147" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.309" y1="13.721" x2="6.338" y2="13.647" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.515" y1="13.206" x2="6.529" y2="13.132" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.676" y1="12.676" x2="6.691" y2="12.603" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.706" y1="12.544" x2="6.779" y2="12.206" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.794" y1="12.132" x2="6.809" y2="12.059" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.809" y1="12" x2="6.868" y2="11.647" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.015" y1="3.868" x2="-0.029" y2="4.206" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.029" y1="6.647" x2="-0.044" y2="6.985" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.044" y1="9.426" x2="-0.059" y2="9.765" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M6.809 9.809 L6.794 9.647 L6.75 9.471" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M6.706 9.265 L6.647 9.029 L6.618 8.926" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M6.544 8.735 L6.456 8.426 L6.441 8.412" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M5.544 6.779 L5.544 6.765 L5.324 6.515" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M5.191 6.353 L5.147 6.279 L4.956 6.088" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M4.809 5.941 L4.706 5.824 L4.559 5.706" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M4.397 5.574 L4.221 5.412 L4.132 5.353" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M3.971 5.235 L3.706 5.044 L3.676 5.044" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M1.456 4.118 L1.368 4.103 L1.118 4.059" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M0.912 4.029 L0.735 4 L0.574 3.985" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M0.368 3.971 L0.103 3.956 L0.015 3.956" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-2.353 4.353 L-2.382 4.353 L-2.676 4.485" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-2.868 4.559 L-2.971 4.603 L-3.176 4.706" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-3.368 4.809 L-3.529 4.882 L-3.662 4.971" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-3.838 5.088 L-4.059 5.235 L-4.132 5.279" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-5.015 6.044 L-5.029 6.044 L-5.059 6.103" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-5.809 7.015 L-5.824 7.029 L-5.985 7.309" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.088 7.485 L-6.147 7.574 L-6.25 7.779" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.353 7.971 L-6.426 8.132 L-6.485 8.294" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.559 8.485 L-6.647 8.735 L-6.676 8.809" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.941 9.956 L-6.941 9.971 L-6.941 10.015" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-7 11.191 L-7 11.221 L-6.971 11.544" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.956 11.75 L-6.941 11.853 L-6.897 12.088" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.853 12.294 L-6.824 12.485 L-6.779 12.632" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.721 12.824 L-6.647 13.088 L-6.632 13.162" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-6.162 14.235 L-6.147 14.25 L-6.118 14.294" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-5.471 15.265 L-5.441 15.294 L-5.235 15.529" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-5.103 15.676 L-5.029 15.779 L-4.853 15.926" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-4.706 16.074 L-4.559 16.206 L-4.441 16.294" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-4.279 16.426 L-4.059 16.588 L-4 16.632" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-2.985 17.221 L-2.971 17.221 L-2.926 17.235" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-1.809 17.632 L-1.779 17.647 L-1.485 17.706" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-1.279 17.75 L-1.147 17.779 L-0.926 17.809" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-0.721 17.824 L-0.529 17.853 L-0.382 17.853" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M-0.176 17.853 L0.103 17.868 L0.176 17.853" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M1.338 17.721 L1.368 17.721 L1.397 17.706" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M2.529 17.368 L2.574 17.353 L2.838 17.235" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M3.029 17.147 L3.147 17.088 L3.338 16.985" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M3.515 16.882 L3.706 16.765 L3.809 16.691" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M3.985 16.574 L4.221 16.397 L4.265 16.368" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M5.118 15.574 L5.147 15.544 L5.162 15.515" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M5.868 14.574 L5.897 14.529 L6.029 14.279" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M6.132 14.088 L6.191 13.971 L6.279 13.779" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M6.368 13.588 L6.456 13.382 L6.485 13.265" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M6.559 13.074 L6.647 12.794 L6.662 12.735" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <path d="M6.868 11.588 L6.882 11.544 L6.882 11.515" fill="none" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-5.426" y1="11.505" x2="4.882" y2="11.505" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-3.265" y1="13.319" x2="2.971" y2="13.319" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-1.353" y1="15.083" x2="1.25" y2="15.083" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.863" y1="10.426" x2="6.863" y2="10.5" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="0.985" y1="4.054" x2="1.044" y2="4.054" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.676" y1="4.005" x2="-0.603" y2="4.005" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="0.426" y1="4.005" x2="0.5" y2="4.005" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.529" y1="3.956" x2="-0.059" y2="3.956" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-7.01" y1="10.647" x2="-7.01" y2="11.132" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-6.961" y1="11.603" x2="-6.961" y2="11.676" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.309" y1="17.877" x2="-0.25" y2="17.877" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="0.235" y1="17.877" x2="0.309" y2="17.877" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="0.794" y1="17.828" x2="0.853" y2="17.828" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="6.912" y1="10.971" x2="6.912" y2="11.029" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="0" y1="0" x2="0" y2="3.794" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.049" y1="4.279" x2="-0.049" y2="6.574" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.049" y1="7.059" x2="-0.049" y2="9.353" stroke="#00b82e" stroke-width="0.25" />
+    <line x1="-0.049" y1="9.838" x2="-0.049" y2="11.397" stroke="#00b82e" stroke-width="0.25" />
+    <text x="-8.971" y="5.98" font-size="3.47" font-weight="bold" text-anchor="end" fill="#000000">PE</text>
+  <line x1="6.889" y1="10.015" x2="6.889" y2="11.441" stroke="#00b82e" stroke-width="0.25" stroke-dasharray="3 1" />
+</g>
+<circle cx="55" cy="220" r="1" fill="#139b48" stroke="none"/>
+<line x1="110" y1="100" x2="110" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="110" cy="100" r="1" fill="#0000ff" stroke="none"/>
+<text x="109.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 109.2 131.25)">161</text>
+<line x1="122.5" y1="107.5" x2="122.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="122.5" cy="107.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="121.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 121.7 131.25)">261</text>
+<line x1="135" y1="115" x2="135" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="135" cy="115" r="1" fill="#0000ff" stroke="none"/>
+<text x="134.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 134.2 131.25)">361</text>
+<line x1="147.5" y1="122.5" x2="147.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="147.5" cy="122.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="146.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 146.7 131.25)">N61</text>
+<g class="sym" transform="translate(110,140)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="-5.642" y1="6.265" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.069" y1="8.132" x2="-5.833" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.804" y1="6.824" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0.02" y1="10.103" x2="-2.892" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-8.613 10.544 L-6.569 9.426 L-7.686 7.382 L-5.642 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-7.877 11.853 L-6.113 10.221 L-5.554 11.25 L-7.877 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-6.113 10.221 L-5.554 11.25 L-7.216 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M-5.554 11.25 L-7.216 11.25 L-7.877 11.853 ZZ" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="0" y1="0" x2="0" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.029" x2="0" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L1</text>
+    <line x1="6.858" y1="6.265" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="11.431" y1="8.132" x2="6.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="10.696" y1="6.824" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.52" y1="10.103" x2="9.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.256 10.544 L6.212 9.426 L5.143 7.382 L7.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.96 11.853 L6.649 10.221 L7.184 11.25 L4.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M6.649 10.221 L7.184 11.25 L5.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M7.184 11.25 L5.593 11.25 L4.96 11.853 ZZ" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="12.5" y1="0" x2="12.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.029" x2="12.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L2</text>
+    <line x1="19.358" y1="6.265" x2="20.475" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="23.931" y1="8.132" x2="19.167" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="23.196" y1="6.824" x2="20.475" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25.02" y1="10.103" x2="22.108" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M16.756 10.544 L18.712 9.426 L17.643 7.382 L19.599 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M17.46 11.853 L19.149 10.221 L19.684 11.25 L17.46 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M19.149 10.221 L19.684 11.25 L18.093 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M19.684 11.25 L18.093 11.25 L17.46 11.853 ZZ" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="25" y1="0" x2="25" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="10.029" x2="25" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="26.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L3</text>
+    <line x1="31.858" y1="6.265" x2="32.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="36.431" y1="8.132" x2="31.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="35.696" y1="6.824" x2="32.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.52" y1="10.103" x2="34.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M29.256 10.544 L31.212 9.426 L30.143 7.382 L32.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M29.96 11.853 L31.649 10.221 L32.184 11.25 L29.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M31.649 10.221 L32.184 11.25 L30.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M32.184 11.25 L30.593 11.25 L29.96 11.853 ZZ" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="37.5" y1="0" x2="37.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.5" y1="10.029" x2="37.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="38.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">N</text>
+    <line x1="-2.73" y1="5.147" x2="34.886" y2="5.147" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="-11.319" y="3.632" font-size="3.47" font-weight="bold" text-anchor="end" fill="#000000">MCB</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="1" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="13.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="13.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">4</text><text x="26" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">5</text><text x="26" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">6</text><text x="38.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">7</text><text x="38.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">8</text></g>
+<text fill="#000000" x="-11.304" y="12.683" font-size="3.47" text-anchor="end">-F1 C25</text>
+<text fill="#000000" x="-11.314" y="17.186" font-size="3.47" text-anchor="end">10 kA</text>
+</g>
+<line x1="110" y1="172.5" x2="110" y2="177.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="109.2" y="175" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 109.2 175)">162</text>
+<line x1="122.5" y1="172.5" x2="122.5" y2="177.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="121.7" y="175" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 121.7 175)">262</text>
+<line x1="135" y1="172.5" x2="135" y2="177.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="134.2" y="175" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 134.2 175)">362</text>
+<line x1="147.5" y1="172.5" x2="147.5" y2="177.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="146.7" y="175" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 146.7 175)">N62</text>
+<g class="sym" transform="translate(110,177.5)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <rect x="-2.074" y="3.397" width="4.147" height="16.618" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-3.426 17.735 L-3.426 15.985 L3.441 7.309 L3.441 5.471" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="0" x2="0" y2="3.397" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="20.015" x2="0" y2="22.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L1</text>
+    <rect x="10.426" y="3.397" width="4.147" height="16.618" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M9.074 17.735 L9.074 15.985 L15.941 7.309 L15.941 5.471" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="0" x2="12.5" y2="3.397" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="20.015" x2="12.5" y2="22.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L2</text>
+    <rect x="22.926" y="3.397" width="4.147" height="16.618" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M21.574 17.735 L21.574 15.985 L28.441 7.309 L28.441 5.471" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="0" x2="25" y2="3.397" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="20.015" x2="25" y2="22.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="26.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L3</text>
+    <rect x="35.426" y="3.397" width="4.147" height="16.618" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M34.074 17.735 L34.074 15.985 L40.941 7.309 L40.941 5.471" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.5" y1="0" x2="37.5" y2="3.397" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.5" y1="20.015" x2="37.5" y2="22.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="38.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">N</text>
+    <text x="-15.289" y="6.015" font-size="3.47" font-weight="bold" text-anchor="end" fill="#000000">SPD</text>
+  
+<text fill="#000000" x="-15.289" y="11.912" font-size="3.47" text-anchor="end">-FV1 T2</text>
+<text fill="#000000" x="-15.299" y="18.147" font-size="3.47" text-anchor="end">In 20 kA</text>
+</g>
+<line x1="110" y1="200" x2="110" y2="205" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="110" cy="205" r="1" fill="#139b48" stroke="none"/>
+<line x1="122.5" y1="200" x2="122.5" y2="205" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="122.5" cy="205" r="1" fill="#139b48" stroke="none"/>
+<line x1="135" y1="200" x2="135" y2="205" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="135" cy="205" r="1" fill="#139b48" stroke="none"/>
+<line x1="147.5" y1="200" x2="147.5" y2="205" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="147.5" cy="205" r="1" fill="#139b48" stroke="none"/>
+<line x1="110" y1="205" x2="147.5" y2="205" stroke="#139b48" stroke-width="0.25"/>
+<line x1="130" y1="205" x2="130" y2="220" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="130" cy="220" r="1" fill="#139b48" stroke="none"/>
+<text x="128.75" y="268.5" font-size="3.47" fill="#0000ff" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Protección contra sobretensiones</text>
+<text x="128.75" y="273.5" font-size="3.47" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">conexión 4P a barra PE</text>
+<line x1="215" y1="100" x2="215" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="215" cy="100" r="1" fill="#0000ff" stroke="none"/>
+<text x="214.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 214.2 131.25)">111</text>
+<line x1="227.5" y1="107.5" x2="227.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="227.5" cy="107.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="226.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 226.7 131.25)">211</text>
+<line x1="240" y1="115" x2="240" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="240" cy="115" r="1" fill="#0000ff" stroke="none"/>
+<text x="239.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 239.2 131.25)">311</text>
+<g class="sym" transform="translate(215,140)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="-5.642" y1="6.265" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.069" y1="8.132" x2="-5.833" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.804" y1="6.824" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0.02" y1="10.103" x2="-2.892" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-8.613 10.544 L-6.569 9.426 L-7.686 7.382 L-5.642 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-7.877 11.853 L-6.113 10.221 L-5.554 11.25 L-7.877 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-6.113 10.221 L-5.554 11.25 L-7.216 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M-5.554 11.25 L-7.216 11.25 L-7.877 11.853 ZZ" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="0" y1="0" x2="0" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.029" x2="0" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L1</text>
+    <line x1="6.858" y1="6.265" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="11.431" y1="8.132" x2="6.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="10.696" y1="6.824" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.52" y1="10.103" x2="9.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.256 10.544 L6.212 9.426 L5.143 7.382 L7.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.96 11.853 L6.649 10.221 L7.184 11.25 L4.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M6.649 10.221 L7.184 11.25 L5.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M7.184 11.25 L5.593 11.25 L4.96 11.853 ZZ" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="12.5" y1="0" x2="12.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.029" x2="12.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L2</text>
+    <line x1="19.358" y1="6.265" x2="20.475" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="23.931" y1="8.132" x2="19.167" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="23.196" y1="6.824" x2="20.475" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25.02" y1="10.103" x2="22.108" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M16.756 10.544 L18.712 9.426 L17.643 7.382 L19.599 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M17.46 11.853 L19.149 10.221 L19.684 11.25 L17.46 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M19.149 10.221 L19.684 11.25 L18.093 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M19.684 11.25 L18.093 11.25 L17.46 11.853 ZZ" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="25" y1="0" x2="25" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="10.029" x2="25" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="26.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L3</text>
+    <line x1="-2.73" y1="5.147" x2="22.386" y2="5.147" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="-11.319" y="3.632" font-size="3.47" font-weight="bold" text-anchor="end" fill="#000000">MCB</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="1" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="13.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="13.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">4</text><text x="26" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">5</text><text x="26" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">6</text></g>
+<text fill="#000000" x="-11.304" y="12.683" font-size="3.47" text-anchor="end">-Q1 D16</text>
+<text fill="#000000" x="-11.314" y="17.186" font-size="3.47" text-anchor="end">10 kA</text>
+</g>
+<line x1="215" y1="172.5" x2="215" y2="177.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="214.2" y="175" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 214.2 175)">112</text>
+<line x1="227.5" y1="172.5" x2="227.5" y2="177.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="226.7" y="175" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 226.7 175)">212</text>
+<line x1="240" y1="172.5" x2="240" y2="177.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="239.2" y="175" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 239.2 175)">312</text>
+<g class="sym" transform="translate(215,177.5)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="0" y1="0" x2="0" y2="3.922" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="11.765" x2="0" y2="15" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="11.765" x2="-4.412" y2="4.902" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-1.667 8.284 C-1.078 7.157 -0.196 7.304 0.098 8.137" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L1</text>
+    <line x1="12.5" y1="0" x2="12.5" y2="3.922" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="11.765" x2="12.5" y2="15" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="11.765" x2="8.088" y2="4.902" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M10.833 8.284 C11.422 7.157 12.304 7.304 12.598 8.137" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L2</text>
+    <line x1="25" y1="0" x2="25" y2="3.922" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="11.765" x2="25" y2="15" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="11.765" x2="20.588" y2="4.902" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M23.333 8.284 C23.922 7.157 24.804 7.304 25.098 8.137" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="26.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L3</text>
+    <line x1="-1.574" y1="9.314" x2="23.494" y2="9.314" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="-6.373" y="4.902" font-size="3.47" font-weight="bold" text-anchor="end" fill="#000000">CONTACTOR</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1/L1</text><text x="1" y="14" font-size="2.5" fill="#000000" text-anchor="start">2/T1</text><text x="13.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3/L2</text><text x="13.5" y="14" font-size="2.5" fill="#000000" text-anchor="start">4/T2</text><text x="26" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">5/L3</text><text x="26" y="14" font-size="2.5" fill="#000000" text-anchor="start">6/T3</text></g>
+<text fill="#000000" x="-6.373" y="9.314" font-size="3.47" text-anchor="end">-K1</text>
+</g>
+<line x1="215" y1="192.5" x2="215" y2="197.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="214.2" y="195" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 214.2 195)">113</text>
+<line x1="227.5" y1="192.5" x2="227.5" y2="197.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="226.7" y="195" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 226.7 195)">213</text>
+<line x1="240" y1="192.5" x2="240" y2="197.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="239.2" y="195" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 239.2 195)">313</text>
+<g class="sym" transform="translate(215,197.5)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="0" y1="0" x2="0" y2="2.941" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="-6.529" y="2.941" width="12.779" height="7.843" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-1.716 8.824 L-1.716 6.863 L1.716 6.863 L1.716 4.902" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.784" x2="0" y2="12.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L1</text>
+    <line x1="12.5" y1="0" x2="12.5" y2="2.941" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="6.25" y="2.941" width="12.5" height="7.843" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M10.784 8.824 L10.784 6.863 L14.216 6.863 L14.216 4.902" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.784" x2="12.5" y2="12.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L2</text>
+    <line x1="25" y1="0" x2="25" y2="2.941" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.75" y="2.941" width="12.779" height="7.843" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M23.284 8.824 L23.284 6.863 L26.716 6.863 L26.716 4.902" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="10.784" x2="25" y2="12.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="26.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L3</text>
+    <text x="-8.49" y="3.922" font-size="3.47" font-weight="bold" text-anchor="end" fill="#000000">OL</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="2.4" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="1" y="15.1" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="13.5" y="2.4" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="13.5" y="15.1" font-size="2.5" fill="#000000" text-anchor="start">4</text><text x="26" y="2.4" font-size="2.5" fill="#000000" text-anchor="start">5</text><text x="26" y="15.1" font-size="2.5" fill="#000000" text-anchor="start">6</text></g>
+<text fill="#000000" x="-8.49" y="8.333" font-size="3.47" text-anchor="end">-F2 9-13 A</text>
+</g>
+<line x1="215" y1="210" x2="215" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="214.2" y="215" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 214.2 215)">114</text>
+<rect x="213" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="217.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">1</text>
+<line x1="227.5" y1="210" x2="227.5" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="226.7" y="215" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 226.7 215)">214</text>
+<rect x="225.5" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="230.1" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2</text>
+<line x1="240" y1="210" x2="240" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="239.2" y="215" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 239.2 215)">314</text>
+<rect x="238" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="242.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3</text>
+<line x1="252.5" y1="220" x2="252.5" y2="229.5" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="252.5" cy="220" r="1" fill="#139b48" stroke="none"/>
+<rect x="250.5" y="229.5" width="4" height="5" fill="none" stroke="#139b48" stroke-width="0.25"/>
+<text x="255.1" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="212" y="233.2" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X1</text>
+<g class="sym" transform="translate(227.5,262.5)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="0" y1="0" x2="0" y2="3.922" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M5.392 9.314 C5.392 12.294 2.98 14.706 0 14.706 C-2.98 14.706 -5.392 12.294 -5.392 9.314 C-5.392 6.333 -2.98 3.922 0 3.922 C2.98 3.922 5.392 6.333 5.392 9.314" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="0" y="10.784" font-size="5.392" font-weight="bold" text-anchor="middle" fill="#0000ff">M</text>
+    <text x="0" y="14.216" font-size="3.47" text-anchor="middle" fill="#0000ff">3~</text>
+  
+<text fill="#000000" x="7.353" y="8.333" font-size="3.47" text-anchor="start">5,5 kW</text>
+<text fill="#000000" x="7.353" y="12.745" font-size="3.47" text-anchor="start">11,2 A</text>
+<text fill="#000000" x="0" y="20.588" font-size="3.47" text-anchor="middle">-M1</text>
+</g>
+<line x1="227.5" y1="234.5" x2="227.5" y2="266.422" stroke="#ff0000" stroke-width="0.25"/>
+<polyline points="215,234.5 215,260 223.687,268.001" fill="none" stroke="#ff0000" stroke-width="0.25"/>
+<polyline points="240,234.5 240,260 231.313,268.001" fill="none" stroke="#ff0000" stroke-width="0.25"/>
+<text x="216.2" y="254.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1</text>
+<text x="228.7" y="254.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L2</text>
+<text x="241.2" y="254.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L3</text>
+<text x="213.8" y="262" font-size="2.5" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">U1</text>
+<text x="228.7" y="262" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">V1</text>
+<text x="241.2" y="262" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">W1</text>
+<line x1="252.5" y1="234.5" x2="252.5" y2="271.814" stroke="#139b48" stroke-width="0.25"/>
+<line x1="252.5" y1="271.814" x2="232.892" y2="271.814" stroke="#139b48" stroke-width="0.25"/>
+<text x="253.7" y="270.614" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="227.5" y="291.5" font-size="3.47" fill="#0000ff" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Bomba de agua B-01</text>
+<text x="227.5" y="296.5" font-size="3.47" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W1 4x2,5 mm² (3F + PE) · 25 m</text>
+<line x1="320" y1="100" x2="320" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="320" cy="100" r="1" fill="#0000ff" stroke="none"/>
+<text x="319.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 319.2 131.25)">121</text>
+<line x1="332.5" y1="107.5" x2="332.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="332.5" cy="107.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="331.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 331.7 131.25)">221</text>
+<line x1="345" y1="115" x2="345" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="345" cy="115" r="1" fill="#0000ff" stroke="none"/>
+<text x="344.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 344.2 131.25)">321</text>
+<line x1="357.5" y1="122.5" x2="357.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="357.5" cy="122.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="356.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 356.7 131.25)">N21</text>
+<g class="sym" transform="translate(320,140)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="-5.642" y1="6.265" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.069" y1="8.132" x2="-5.833" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.804" y1="6.824" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-8.613 10.544 L-6.569 9.426 L-7.686 7.382 L-5.642 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-7.877 11.853 L-6.113 10.221 L-5.554 11.25 L-7.877 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-6.113 10.221 L-5.554 11.25 L-7.216 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M-5.554 11.25 L-7.216 11.25 L-7.877 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="0" y1="0" x2="0" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0.02" y1="10.103" x2="-2.892" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.029" x2="0" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L1</text>
+    <line x1="6.858" y1="6.265" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="11.431" y1="8.132" x2="6.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="10.696" y1="6.824" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.256 10.544 L6.212 9.426 L5.143 7.382 L7.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.96 11.853 L6.649 10.221 L7.184 11.25 L4.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M6.649 10.221 L7.184 11.25 L5.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M7.184 11.25 L5.593 11.25 L4.96 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="12.5" y1="0" x2="12.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.52" y1="10.103" x2="9.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.029" x2="12.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L2</text>
+    <line x1="19.358" y1="6.265" x2="20.475" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="23.931" y1="8.132" x2="19.167" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="23.196" y1="6.824" x2="20.475" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M16.756 10.544 L18.712 9.426 L17.643 7.382 L19.599 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M17.46 11.853 L19.149 10.221 L19.684 11.25 L17.46 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M19.149 10.221 L19.684 11.25 L18.093 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M19.684 11.25 L18.093 11.25 L17.46 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="25" y1="0" x2="25" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25.02" y1="10.103" x2="22.108" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="10.029" x2="25" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="26.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L3</text>
+    <line x1="31.858" y1="6.265" x2="32.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="36.431" y1="8.132" x2="31.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="35.696" y1="6.824" x2="32.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M29.256 10.544 L31.212 9.426 L30.143 7.382 L32.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M29.96 11.853 L31.649 10.221 L32.184 11.25 L29.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M31.649 10.221 L32.184 11.25 L30.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M32.184 11.25 L30.593 11.25 L29.96 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="37.5" y1="0" x2="37.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.52" y1="10.103" x2="34.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="37.5" y1="10.029" x2="37.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="43.201" y="5.662" width="4.529" height="4.529" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="43.966" y="9.088" font-size="3.529" fill="#0000ff" text-anchor="start">I</text>
+    <text x="45.73" y="9.088" font-size="2.5" fill="#0000ff" text-anchor="start">Δ</text>
+    <line x1="47.73" y1="7.936" x2="49.995" y2="7.936" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="50" y1="6.794" x2="50" y2="9.059" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="45.441" y1="4.529" x2="45.441" y2="5.662" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="45.441" y1="11.324" x2="45.441" y2="14.721" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <line x1="42.054" y1="14.701" x2="45.466" y2="14.701" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="38.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">N</text>
+    <path d="M42.054 14.721 C42.054 15.348 30.598 15.853 18.764 15.853 C6.935 15.853 -4.505 15.348 -4.505 14.721 C-4.505 14.093 6.935 13.588 18.764 13.588 C30.598 13.588 42.054 14.093 42.054 14.721 Z" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.108" y1="7.936" x2="43.201" y2="7.936" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="-11.319" y="3.632" font-size="3.47" fill="#000000" text-anchor="end" font-weight="bold">RCBO</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="1" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="13.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="13.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">4</text><text x="26" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">5</text><text x="26" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">6</text><text x="38.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">7</text><text x="38.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">8</text></g>
+<text fill="#000000" x="-11.314" y="8.162" font-size="3.47" text-anchor="end">C20</text>
+<text fill="#000000" x="-11.314" y="12.691" font-size="3.47" text-anchor="end">30 mA</text>
+<text fill="#000000" x="-11.314" y="17.205" font-size="3.47" text-anchor="end">10 kA</text>
+<text fill="#000000" x="-11.314" y="21.683" font-size="3.47" text-anchor="end">-Q2</text>
+</g>
+<line x1="320" y1="172.5" x2="320" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="319.2" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 319.2 196.25)">122</text>
+<rect x="318" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="322.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">1</text>
+<line x1="332.5" y1="172.5" x2="332.5" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="331.7" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 331.7 196.25)">222</text>
+<rect x="330.5" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="335.1" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2</text>
+<line x1="345" y1="172.5" x2="345" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="344.2" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 344.2 196.25)">322</text>
+<rect x="343" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="347.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3</text>
+<line x1="357.5" y1="172.5" x2="357.5" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="356.7" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 356.7 196.25)">N22</text>
+<rect x="355.5" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="360.1" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">4</text>
+<line x1="370" y1="220" x2="370" y2="229.5" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="370" cy="220" r="1" fill="#139b48" stroke="none"/>
+<rect x="368" y="229.5" width="4" height="5" fill="none" stroke="#139b48" stroke-width="0.25"/>
+<text x="372.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="317" y="233.2" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X2</text>
+<line x1="320" y1="234.5" x2="320" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M318.75 259.5 L321.25 259.5 L320 262.5 Z" fill="#ff0000" stroke="none"/>
+<line x1="332.5" y1="234.5" x2="332.5" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M331.25 259.5 L333.75 259.5 L332.5 262.5 Z" fill="#ff0000" stroke="none"/>
+<line x1="345" y1="234.5" x2="345" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M343.75 259.5 L346.25 259.5 L345 262.5 Z" fill="#ff0000" stroke="none"/>
+<line x1="357.5" y1="234.5" x2="357.5" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M356.25 259.5 L358.75 259.5 L357.5 262.5 Z" fill="#ff0000" stroke="none"/>
+<text x="321.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1</text>
+<text x="333.7" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L2</text>
+<text x="346.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L3</text>
+<text x="358.7" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">N</text>
+<line x1="370" y1="234.5" x2="370" y2="259.5" stroke="#139b48" stroke-width="0.25"/>
+<path d="M368.75 259.5 L371.25 259.5 L370 262.5 Z" fill="#139b48" stroke="none"/>
+<text x="371.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="345" y="268.5" font-size="3.47" fill="#0000ff" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Tomas trifásicas 3P+N+T</text>
+<text x="345" y="273.5" font-size="3.47" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W2 5x4 mm² · 30 m</text>
+<line x1="435" y1="100" x2="435" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="435" cy="100" r="1" fill="#0000ff" stroke="none"/>
+<text x="434.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 434.2 131.25)">131</text>
+<line x1="447.5" y1="122.5" x2="447.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="447.5" cy="122.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="446.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 446.7 131.25)">N31</text>
+<g class="sym" transform="translate(435,140)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="-5.642" y1="6.265" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.069" y1="8.132" x2="-5.833" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.804" y1="6.824" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-8.613 10.544 L-6.569 9.426 L-7.686 7.382 L-5.642 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-7.877 11.853 L-6.113 10.221 L-5.554 11.25 L-7.877 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-6.113 10.221 L-5.554 11.25 L-7.216 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M-5.554 11.25 L-7.216 11.25 L-7.877 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="0" y1="0" x2="0" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0.02" y1="10.103" x2="-2.892" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.029" x2="0" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L</text>
+    <line x1="6.858" y1="6.265" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="11.431" y1="8.132" x2="6.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="10.696" y1="6.824" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.256 10.544 L6.212 9.426 L5.143 7.382 L7.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.96 11.853 L6.649 10.221 L7.184 11.25 L4.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M6.649 10.221 L7.184 11.25 L5.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M7.184 11.25 L5.593 11.25 L4.96 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="12.5" y1="0" x2="12.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.52" y1="10.103" x2="9.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.029" x2="12.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.201" y="5.662" width="4.529" height="4.529" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="18.966" y="9.088" font-size="3.529" fill="#0000ff" text-anchor="start">I</text>
+    <text x="20.73" y="9.088" font-size="2.5" fill="#0000ff" text-anchor="start">Δ</text>
+    <line x1="22.73" y1="7.936" x2="24.995" y2="7.936" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="6.794" x2="25" y2="9.059" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="20.441" y1="4.529" x2="20.441" y2="5.662" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="20.441" y1="11.324" x2="20.441" y2="14.721" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <line x1="17.054" y1="14.701" x2="20.466" y2="14.701" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">N</text>
+    <path d="M17.054 14.721 C17.054 15.348 11.191 15.853 6.264 15.853 C1.337 15.853 -4.505 15.348 -4.505 14.721 C-4.505 14.093 1.337 13.588 6.264 13.588 C11.191 13.588 17.054 14.093 17.054 14.721 Z" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.108" y1="7.936" x2="18.201" y2="7.936" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="-11.319" y="3.632" font-size="3.47" fill="#000000" text-anchor="end" font-weight="bold">RCBO</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="1" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="13.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="13.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">4</text></g>
+<text fill="#000000" x="-11.314" y="8.162" font-size="3.47" text-anchor="end">C10</text>
+<text fill="#000000" x="-11.314" y="12.691" font-size="3.47" text-anchor="end">30 mA</text>
+<text fill="#000000" x="-11.314" y="17.205" font-size="3.47" text-anchor="end">6 kA</text>
+<text fill="#000000" x="-11.314" y="21.683" font-size="3.47" text-anchor="end">-Q3</text>
+</g>
+<line x1="435" y1="172.5" x2="435" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="434.2" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 434.2 196.25)">132</text>
+<rect x="433" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="437.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">1</text>
+<line x1="447.5" y1="172.5" x2="447.5" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="446.7" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 446.7 196.25)">N32</text>
+<rect x="445.5" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="450.1" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2</text>
+<line x1="460" y1="220" x2="460" y2="229.5" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="460" cy="220" r="1" fill="#139b48" stroke="none"/>
+<rect x="458" y="229.5" width="4" height="5" fill="none" stroke="#139b48" stroke-width="0.25"/>
+<text x="462.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="432" y="233.2" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X3</text>
+<line x1="435" y1="234.5" x2="435" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M433.75 259.5 L436.25 259.5 L435 262.5 Z" fill="#ff0000" stroke="none"/>
+<line x1="447.5" y1="234.5" x2="447.5" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M446.25 259.5 L448.75 259.5 L447.5 262.5 Z" fill="#ff0000" stroke="none"/>
+<text x="436.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1</text>
+<text x="448.7" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">N</text>
+<line x1="460" y1="234.5" x2="460" y2="259.5" stroke="#139b48" stroke-width="0.25"/>
+<path d="M458.75 259.5 L461.25 259.5 L460 262.5 Z" fill="#139b48" stroke="none"/>
+<text x="461.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="447.5" y="268.5" font-size="3.47" fill="#0000ff" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Iluminación taller</text>
+<text x="447.5" y="273.5" font-size="3.47" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W3 3x2,5 mm² · 35 m</text>
+<line x1="520" y1="107.5" x2="520" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="520" cy="107.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="519.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 519.2 131.25)">241</text>
+<line x1="532.5" y1="122.5" x2="532.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="532.5" cy="122.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="531.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 531.7 131.25)">N41</text>
+<g class="sym" transform="translate(520,140)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="-5.642" y1="6.265" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.069" y1="8.132" x2="-5.833" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.804" y1="6.824" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-8.613 10.544 L-6.569 9.426 L-7.686 7.382 L-5.642 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-7.877 11.853 L-6.113 10.221 L-5.554 11.25 L-7.877 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-6.113 10.221 L-5.554 11.25 L-7.216 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M-5.554 11.25 L-7.216 11.25 L-7.877 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="0" y1="0" x2="0" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0.02" y1="10.103" x2="-2.892" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.029" x2="0" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L</text>
+    <line x1="6.858" y1="6.265" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="11.431" y1="8.132" x2="6.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="10.696" y1="6.824" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.256 10.544 L6.212 9.426 L5.143 7.382 L7.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.96 11.853 L6.649 10.221 L7.184 11.25 L4.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M6.649 10.221 L7.184 11.25 L5.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M7.184 11.25 L5.593 11.25 L4.96 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="12.5" y1="0" x2="12.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.52" y1="10.103" x2="9.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.029" x2="12.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.201" y="5.662" width="4.529" height="4.529" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="18.966" y="9.088" font-size="3.529" fill="#0000ff" text-anchor="start">I</text>
+    <text x="20.73" y="9.088" font-size="2.5" fill="#0000ff" text-anchor="start">Δ</text>
+    <line x1="22.73" y1="7.936" x2="24.995" y2="7.936" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="6.794" x2="25" y2="9.059" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="20.441" y1="4.529" x2="20.441" y2="5.662" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="20.441" y1="11.324" x2="20.441" y2="14.721" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <line x1="17.054" y1="14.701" x2="20.466" y2="14.701" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">N</text>
+    <path d="M17.054 14.721 C17.054 15.348 11.191 15.853 6.264 15.853 C1.337 15.853 -4.505 15.348 -4.505 14.721 C-4.505 14.093 1.337 13.588 6.264 13.588 C11.191 13.588 17.054 14.093 17.054 14.721 Z" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.108" y1="7.936" x2="18.201" y2="7.936" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="-11.319" y="3.632" font-size="3.47" fill="#000000" text-anchor="end" font-weight="bold">RCBO</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="1" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="13.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="13.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">4</text></g>
+<text fill="#000000" x="-11.314" y="8.162" font-size="3.47" text-anchor="end">C16</text>
+<text fill="#000000" x="-11.314" y="12.691" font-size="3.47" text-anchor="end">30 mA</text>
+<text fill="#000000" x="-11.314" y="17.205" font-size="3.47" text-anchor="end">6 kA</text>
+<text fill="#000000" x="-11.314" y="21.683" font-size="3.47" text-anchor="end">-Q4</text>
+</g>
+<line x1="520" y1="172.5" x2="520" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="519.2" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 519.2 196.25)">242</text>
+<rect x="518" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="522.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">1</text>
+<line x1="532.5" y1="172.5" x2="532.5" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="531.7" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 531.7 196.25)">N42</text>
+<rect x="530.5" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="535.1" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2</text>
+<line x1="545" y1="220" x2="545" y2="229.5" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="545" cy="220" r="1" fill="#139b48" stroke="none"/>
+<rect x="543" y="229.5" width="4" height="5" fill="none" stroke="#139b48" stroke-width="0.25"/>
+<text x="547.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="517" y="233.2" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X4</text>
+<line x1="520" y1="234.5" x2="520" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M518.75 259.5 L521.25 259.5 L520 262.5 Z" fill="#ff0000" stroke="none"/>
+<line x1="532.5" y1="234.5" x2="532.5" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M531.25 259.5 L533.75 259.5 L532.5 262.5 Z" fill="#ff0000" stroke="none"/>
+<text x="521.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L2</text>
+<text x="533.7" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">N</text>
+<line x1="545" y1="234.5" x2="545" y2="259.5" stroke="#139b48" stroke-width="0.25"/>
+<path d="M543.75 259.5 L546.25 259.5 L545 262.5 Z" fill="#139b48" stroke="none"/>
+<text x="546.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="532.5" y="268.5" font-size="3.47" fill="#0000ff" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Tomas uso general</text>
+<text x="532.5" y="273.5" font-size="3.47" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W4 3x2,5 mm² · 20 m</text>
+<line x1="605" y1="115" x2="605" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="605" cy="115" r="1" fill="#0000ff" stroke="none"/>
+<text x="604.2" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 604.2 131.25)">351</text>
+<line x1="617.5" y1="122.5" x2="617.5" y2="140" stroke="#0000ff" stroke-width="0.25"/>
+<circle cx="617.5" cy="122.5" r="1" fill="#0000ff" stroke="none"/>
+<text x="616.7" y="131.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 616.7 131.25)">N51</text>
+<g class="sym" transform="translate(605,140)" fill="none" stroke-linecap="butt" stroke-linejoin="round" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">
+    <line x1="-5.642" y1="6.265" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.069" y1="8.132" x2="-5.833" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.804" y1="6.824" x2="-4.525" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-8.613 10.544 L-6.569 9.426 L-7.686 7.382 L-5.642 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-7.877 11.853 L-6.113 10.221 L-5.554 11.25 L-7.877 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M-6.113 10.221 L-5.554 11.25 L-7.216 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M-5.554 11.25 L-7.216 11.25 L-7.877 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="0" y1="0" x2="0" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0.02" y1="10.103" x2="-2.892" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="0" y1="10.029" x2="0" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <text x="1.225" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">L</text>
+    <line x1="6.858" y1="6.265" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="11.431" y1="8.132" x2="6.667" y2="10.735" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="10.696" y1="6.824" x2="7.975" y2="8.309" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.256 10.544 L6.212 9.426 L5.143 7.382 L7.099 6.265" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M4.96 11.853 L6.649 10.221 L7.184 11.25 L4.96 11.853" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <path d="M6.649 10.221 L7.184 11.25 L5.593 11.25 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <path d="M7.184 11.25 L5.593 11.25 L4.96 11.853 Z" fill="#0000ff" stroke="#0000ff" stroke-width="0.18" />
+    <line x1="12.5" y1="0" x2="12.5" y2="5.441" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.52" y1="10.103" x2="9.608" y2="4.853" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="12.5" y1="10.029" x2="12.5" y2="32.5" stroke="#0000ff" stroke-width="0.25" />
+    <rect x="18.201" y="5.662" width="4.529" height="4.529" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <text x="18.966" y="9.088" font-size="3.529" fill="#0000ff" text-anchor="start">I</text>
+    <text x="20.73" y="9.088" font-size="2.5" fill="#0000ff" text-anchor="start">Δ</text>
+    <line x1="22.73" y1="7.936" x2="24.995" y2="7.936" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="25" y1="6.794" x2="25" y2="9.059" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="20.441" y1="4.529" x2="20.441" y2="5.662" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="20.441" y1="11.324" x2="20.441" y2="14.721" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <line x1="17.054" y1="14.701" x2="20.466" y2="14.701" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="13.725" y="-1.225" font-size="3.47" fill="#000000" text-anchor="start">N</text>
+    <path d="M17.054 14.721 C17.054 15.348 11.191 15.853 6.264 15.853 C1.337 15.853 -4.505 15.348 -4.505 14.721 C-4.505 14.093 1.337 13.588 6.264 13.588 C11.191 13.588 17.054 14.093 17.054 14.721 Z" fill="none" stroke="#0000ff" stroke-width="0.25" />
+    <line x1="-1.108" y1="7.936" x2="18.201" y2="7.936" stroke="#0000ff" stroke-width="0.25" stroke-dasharray="3 1" />
+    <text x="-11.319" y="3.632" font-size="3.47" fill="#000000" text-anchor="end" font-weight="bold">RCBO</text>
+  
+    <g id="terminal_marks" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif"><text x="1" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">1</text><text x="1" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">2</text><text x="13.5" y="3.2" font-size="2.5" fill="#000000" text-anchor="start">3</text><text x="13.5" y="31.5" font-size="2.5" fill="#000000" text-anchor="start">4</text></g>
+<text fill="#000000" x="-11.314" y="8.162" font-size="3.47" text-anchor="end">C16</text>
+<text fill="#000000" x="-11.314" y="12.691" font-size="3.47" text-anchor="end">30 mA</text>
+<text fill="#000000" x="-11.314" y="17.205" font-size="3.47" text-anchor="end">6 kA</text>
+<text fill="#000000" x="-11.314" y="21.683" font-size="3.47" text-anchor="end">-Q5</text>
+</g>
+<line x1="605" y1="172.5" x2="605" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="604.2" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 604.2 196.25)">352</text>
+<rect x="603" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="607.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">1</text>
+<line x1="617.5" y1="172.5" x2="617.5" y2="229.5" stroke="#0000ff" stroke-width="0.25"/>
+<text x="616.7" y="196.25" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 616.7 196.25)">N52</text>
+<rect x="615.5" y="229.5" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="620.1" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2</text>
+<line x1="630" y1="220" x2="630" y2="229.5" stroke="#139b48" stroke-width="0.25"/>
+<circle cx="630" cy="220" r="1" fill="#139b48" stroke="none"/>
+<rect x="628" y="229.5" width="4" height="5" fill="none" stroke="#139b48" stroke-width="0.25"/>
+<text x="632.6" y="233" font-size="2.5" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="602" y="233.2" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X5</text>
+<line x1="605" y1="234.5" x2="605" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M603.75 259.5 L606.25 259.5 L605 262.5 Z" fill="#ff0000" stroke="none"/>
+<line x1="617.5" y1="234.5" x2="617.5" y2="259.5" stroke="#ff0000" stroke-width="0.25"/>
+<path d="M616.25 259.5 L618.75 259.5 L617.5 262.5 Z" fill="#ff0000" stroke="none"/>
+<text x="606.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L3</text>
+<text x="618.7" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">N</text>
+<line x1="630" y1="234.5" x2="630" y2="259.5" stroke="#139b48" stroke-width="0.25"/>
+<path d="M628.75 259.5 L631.25 259.5 L630 262.5 Z" fill="#139b48" stroke="none"/>
+<text x="631.2" y="258.3" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">PE</text>
+<text x="617.5" y="268.5" font-size="3.47" fill="#0000ff" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Reserva equipada</text>
+<text x="617.5" y="273.5" font-size="3.47" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W5 3x2,5 mm²</text>
+<text x="40" y="316" font-size="4.86" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">TABLA DE CIRCUITOS</text>
+<rect x="40" y="320" width="296" height="56" fill="none" stroke="#000000" stroke-width="0.5"/>
+<line x1="40" y1="327" x2="336" y2="327" stroke="#000000" stroke-width="0.5"/>
+<line x1="40" y1="334" x2="336" y2="334" stroke="#000000" stroke-width="0.25"/>
+<line x1="40" y1="341" x2="336" y2="341" stroke="#000000" stroke-width="0.25"/>
+<line x1="40" y1="348" x2="336" y2="348" stroke="#000000" stroke-width="0.25"/>
+<line x1="40" y1="355" x2="336" y2="355" stroke="#000000" stroke-width="0.25"/>
+<line x1="40" y1="362" x2="336" y2="362" stroke="#000000" stroke-width="0.25"/>
+<line x1="40" y1="369" x2="336" y2="369" stroke="#000000" stroke-width="0.25"/>
+<text x="41.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Circ.</text>
+<text x="41.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q0</text>
+<text x="41.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">F1</text>
+<text x="41.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q1</text>
+<text x="41.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q2</text>
+<text x="41.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q3</text>
+<text x="41.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q4</text>
+<text x="41.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q5</text>
+<line x1="54" y1="320" x2="54" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="55.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Ubic.</text>
+<text x="55.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">G4</text>
+<text x="55.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">G4</text>
+<text x="55.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">F4</text>
+<text x="55.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">E4</text>
+<text x="55.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">D4</text>
+<text x="55.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">D4</text>
+<text x="55.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">C4</text>
+<line x1="68" y1="320" x2="68" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="69.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Destino</text>
+<text x="69.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">General TS-01</text>
+<text x="69.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">DPS</text>
+<text x="69.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Bomba B-01 5,5 kW</text>
+<text x="69.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Tomas trifásicas</text>
+<text x="69.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Iluminación taller</text>
+<text x="69.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Tomas uso general</text>
+<text x="69.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Reserva equipada</text>
+<line x1="126" y1="320" x2="126" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="127.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Conductores</text>
+<text x="127.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3F+N+PE</text>
+<text x="127.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3F+N → PE</text>
+<text x="127.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3F+PE</text>
+<text x="127.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3F+N+PE</text>
+<text x="127.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">F+N+PE</text>
+<text x="127.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">F+N+PE</text>
+<text x="127.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">F+N+PE</text>
+<line x1="158" y1="320" x2="158" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="159.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Fase</text>
+<text x="159.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1 L2 L3</text>
+<text x="159.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1 L2 L3</text>
+<text x="159.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1 L2 L3</text>
+<text x="159.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1 L2 L3</text>
+<text x="159.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L1</text>
+<text x="159.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L2</text>
+<text x="159.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L3</text>
+<line x1="178" y1="320" x2="178" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="179.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Polos</text>
+<text x="179.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">4P</text>
+<text x="179.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">4P</text>
+<text x="179.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3P</text>
+<text x="179.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">4P</text>
+<text x="179.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2P</text>
+<text x="179.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2P</text>
+<text x="179.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2P</text>
+<line x1="192" y1="320" x2="192" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="193.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Protección</text>
+<text x="193.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">MCCB 100 A · 25 kA</text>
+<text x="193.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">MCB C25 + DPS T2 20 kA</text>
+<text x="193.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">MCB D16 + K1 + OL 9-13 A</text>
+<text x="193.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">RCBO C20 30 mA</text>
+<text x="193.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">RCBO C10 30 mA</text>
+<text x="193.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">RCBO C16 30 mA</text>
+<text x="193.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">RCBO C16 30 mA</text>
+<line x1="252" y1="320" x2="252" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="253.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Bornera</text>
+<text x="253.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="253.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="253.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X1 1-3, PE</text>
+<text x="253.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X2 1-4, PE</text>
+<text x="253.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X3 1-2, PE</text>
+<text x="253.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X4 1-2, PE</text>
+<text x="253.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-X5 1-2, PE</text>
+<line x1="278" y1="320" x2="278" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="279.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Cable</text>
+<text x="279.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W0 4x25 + PE 16</text>
+<text x="279.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="279.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W1 4x2,5</text>
+<text x="279.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W2 5x4</text>
+<text x="279.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W3 3x2,5</text>
+<text x="279.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W4 3x2,5</text>
+<text x="279.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">-W5 3x2,5</text>
+<line x1="318" y1="320" x2="318" y2="376" stroke="#000000" stroke-width="0.25"/>
+<text x="319.5" y="325" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">IB [A]</text>
+<text x="319.5" y="332" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">62,6</text>
+<text x="319.5" y="339" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="319.5" y="346" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">11,2</text>
+<text x="319.5" y="353" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">16,0</text>
+<text x="319.5" y="360" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">6,4</text>
+<text x="319.5" y="367" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">10,0</text>
+<text x="319.5" y="374" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="655" y="22" font-size="4.86" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">REFERENCIAS</text>
+<text x="655" y="28" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">MCCB</text>
+<text x="681" y="28" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Interruptor de caja moldeada</text>
+<text x="655" y="34" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">MCB</text>
+<text x="681" y="34" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Interruptor termomagnético</text>
+<text x="655" y="40" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">RCBO</text>
+<text x="681" y="40" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Termomagnético con diferencial</text>
+<text x="655" y="46" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">SPD</text>
+<text x="681" y="46" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Descargador de sobretensión (DPS)</text>
+<text x="655" y="52" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">CONTACTOR</text>
+<text x="681" y="52" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Contactor de potencia</text>
+<text x="655" y="58" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">OL</text>
+<text x="681" y="58" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Relé térmico de sobrecarga</text>
+<text x="655" y="64" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">M 3~</text>
+<text x="681" y="64" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Motor trifásico</text>
+<text x="655" y="70" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">-X</text>
+<text x="681" y="70" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Bornera de salida (1, 2, 3… y PE)</text>
+<text x="655" y="76" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">-W</text>
+<text x="681" y="76" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Cable de campo</text>
+<text x="655" y="82" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">PE</text>
+<text x="681" y="82" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Puesta a tierra / conductor de protección</text>
+<text x="655" y="96" font-size="4.86" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">CONDUCTORES</text>
+<line x1="655" y1="100.8" x2="675" y2="100.8" stroke="#0000ff" stroke-width="0.5"/>
+<text x="681" y="102" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Barras L1, L2, L3 y N (0,5)</text>
+<line x1="655" y1="106.8" x2="675" y2="106.8" stroke="#0000ff" stroke-width="0.25"/>
+<text x="681" y="108" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Conductor dentro del tablero (0,25)</text>
+<line x1="655" y1="112.8" x2="675" y2="112.8" stroke="#ff0000" stroke-width="0.25"/>
+<text x="681" y="114" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Cable de llegada o de salida</text>
+<line x1="655" y1="118.8" x2="675" y2="118.8" stroke="#139b48" stroke-width="0.5" stroke-dasharray="10 1 2 1"/>
+<text x="681" y="120" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Barra PE</text>
+<line x1="655" y1="124.8" x2="675" y2="124.8" stroke="#139b48" stroke-width="0.25"/>
+<text x="681" y="126" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Conductor PE</text>
+<circle cx="665" cy="130.8" r="1" fill="#0000ff" stroke="none"/>
+<text x="681" y="132" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Conexión (los cruces sin punto no se tocan)</text>
+<rect x="663" y="134.3" width="4" height="5" fill="none" stroke="#0000ff" stroke-width="0.25"/>
+<text x="681" y="138" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Borne de bornera, con su número</text>
+<text x="665.2" y="142.2" font-size="2.5" fill="#000000" text-anchor="middle" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" transform="rotate(-90 665.2 142.2)">121</text>
+<text x="681" y="144" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Número de conductor: fase, circuito y tramo</text>
+<text x="655" y="150" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Colores (AEA 90364-5 Tabla 55.1): L1 marrón,</text>
+<text x="655" y="155.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L2 negro, L3 rojo, N celeste, PE verde-amarillo</text>
+<text x="655" y="169.5" font-size="4.86" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">BALANCE DE FASES [A]</text>
+<text x="655" y="175.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold"></text>
+<text x="720" y="175.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">L1</text>
+<text x="745" y="175.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">L2</text>
+<text x="770" y="175.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">L3</text>
+<text x="655" y="181.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q1 bomba</text>
+<text x="720" y="181.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">11,2</text>
+<text x="745" y="181.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">11,2</text>
+<text x="770" y="181.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">11,2</text>
+<text x="655" y="187.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q2 tomas 3F</text>
+<text x="720" y="187.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">16,0</text>
+<text x="745" y="187.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">16,0</text>
+<text x="770" y="187.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">16,0</text>
+<text x="655" y="193.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q3 iluminación</text>
+<text x="720" y="193.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">6,4</text>
+<text x="745" y="193.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="770" y="193.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="655" y="199.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">Q4 tomas</text>
+<text x="720" y="199.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="745" y="199.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">10,0</text>
+<text x="770" y="199.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">—</text>
+<text x="655" y="205.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">Total</text>
+<text x="720" y="205.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">33,6</text>
+<text x="745" y="205.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">37,2</text>
+<text x="770" y="205.5" font-size="3.47" fill="#000000" text-anchor="end" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">27,2</text>
+<line x1="655" y1="200.9" x2="770" y2="200.9" stroke="#000000" stroke-width="0.25"/>
+<text x="655" y="211.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">L3 es la fase menos cargada: ahí va la reserva -Q5</text>
+<text x="655" y="225.5" font-size="4.86" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif" font-weight="bold">NOTAS</text>
+<text x="655" y="231" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">1. Esquema TN-S: N y PE separados desde el TGBT-01.</text>
+<text x="655" y="236.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">2. El PE nunca pasa por un polo ni por el toroide de un</text>
+<text x="655" y="242" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">   diferencial: va directo de la barra PE a cada carga.</text>
+<text x="655" y="247.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">3. Circuitos monofásicos con corte bipolar (AEA 771.20.5.1).</text>
+<text x="655" y="253" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">4. El neutro se corta junto con las fases (4P o 2P);</text>
+<text x="655" y="258.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">   la salida del motor no lleva neutro: equipos 3P.</text>
+<text x="655" y="264" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">5. Paso entre polos 12,5 mm en todo el plano.</text>
+<text x="655" y="269.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">6. Valores de práctica, sin cálculo de verificación.</text>
+<text x="655" y="275" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">7. Diagrama sin escala (IRAM 4524).</text>
+<text x="655" y="280.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">8. Bornes de equipos según IEC 60445 (1-2, 3-4, 5-6, 7-8;</text>
+<text x="655" y="286" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">   contactor 1/L1-2/T1; motor U1 V1 W1).</text>
+<text x="655" y="291.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">9. Conductor 121 = L1, circuito Q2, tramo 1; N21 su neutro.</text>
+<text x="655" y="297" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">   Q0 es el circuito 0 y -F1 el circuito 6.</text>
+<text x="655" y="302.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">10. Ubic.: coordenada de la lámina (columna H a A, fila 4 a 1).</text>
+<text x="655" y="308" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">    Una línea que sigue en otra hoja termina en flecha con</text>
+<text x="655" y="313.5" font-size="3.47" fill="#000000" text-anchor="start" font-family="osifont, ISOCPEUR, 'DejaVu Sans', Arial, sans-serif">    hoja/coordenada de destino, por ejemplo 2/G4.</text>
+</g>
+</g>
+</svg>
